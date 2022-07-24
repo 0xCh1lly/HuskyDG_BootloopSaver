@@ -9,7 +9,7 @@ Protect your system from bootloop caused by Magisk modules. In case the data par
 
 - If you install module that directly modify system (mean doesn't go through magisk systemless approach) and cause bootloop, Bootloop Protector cannot help!!!
 
-- **Bootloop protector should only be used as a precaution**. Some module still can affect the system after it is disabled or removed. The only option is wiping all your data. **Please take care of what you are going to install**.
+- **Bootloop protector should only be used as a precaution**. Some modules still can affect the system after they are disabled or removed. The only option is wiping all your data. **Please take care of what you are going to install**.
 
 ## Requirements
 - Magisk 20.4+ is installed
